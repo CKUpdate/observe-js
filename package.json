@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Polymer/observe-js.git"
+    "url": "https://github.com/CKUpdate/observe-js.git"
   },
   "author": "The Polymer Authors",
   "license": "BSD",
@@ -29,5 +29,8 @@
     "karma-safari-launcher": "*",
     "karma-script-launcher": "*",
     "karma-crbot-reporter": "*"
-  }
+  },
+  "keywords": [
+    "flatten"
+  ]
 }
